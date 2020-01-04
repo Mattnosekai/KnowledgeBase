@@ -1,2 +1,0 @@
-# KnowledgeBase
-**Test 1**
